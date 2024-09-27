@@ -58,17 +58,17 @@ let sum = 12+20;
 console.log("esercizio 3 = ",somma);
 console.log("esercizio 3 = ",sum);
 
-let ese3  = `<p>Scrivi il codice necessario ad effettuare un'addizione (una somma) dei numeri ${a} e ${b}. <br></br> Sommando ${a} e ${b} il risultato è: ${somma}</p>`; //uso le template litteral per inserire html e variabili 
+let ese3  = `<p>Scrivi il codice necessario ad effettuare un'addizione (una somma) dei numeri ${a} e ${b}. <br><br> let a = 12 <br> let b = 20 <br> let somma = a + b <br><br> Sommando ${a} e ${b} il risultato è: ${somma}</p>`; //uso le template litteral per inserire html e variabili 
 
 //esercizio 4
 let x = 12;
-let ese4 = `<p>Crea una variable di nome "x" e assegna ad essa il numero 12. <br>let x = 12;</p>`;
+let ese4 = `<p>Crea una variable di nome "x" e assegna ad essa il numero 12. <br><br>let x = 12;</p>`;
 
 //esercizio 5
 let name = "Francesco"; 
 console.log("esercizio 5 = ",name);
 
-let ese5 = `<p>Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa. <br>let name = "Francesco"; <br>console.log("esercizio 5 = ",name);</p>`
+let ese5 = `<p>Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa. <br><br>let name = "Francesco"; <br><br>console.log("esercizio 5 = ",name);</p>`
 
 //esercizio6
 let sott = 4 - x;

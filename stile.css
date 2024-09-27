@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    background-color: whitesmoke;
 }
 
 header{
@@ -11,6 +12,7 @@ nav{
     justify-content: space-evenly;
     gap: 5p;
     margin: 0 5px;
+    height: 25px;
 }
 
 nav button {
@@ -30,4 +32,5 @@ section div{
     width: 700px;
     margin: 20px;
     border-radius: 15px;
+    padding:10px;
 }
